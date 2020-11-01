@@ -9,7 +9,7 @@ Você precisará de um token de acesso do bot do telegram. Para fazer isso, é m
 * Você receberá um token de acesso e poderá preencher a variável de ambiente para trabalhar com seu bot.
 
 ### Como rodar o projeto:
-* Crie um arquivo .env e cole os parametros que estão no arquivo .env_sample. Troque os valores deles pelas as informações do seu projeto (token do bot, url da sala, id do seu chat)
+* Crie um arquivo .env e cole os parametros que estão no arquivo .env_sample. Troque os valores deles pelas informações do seu projeto (token do bot, url da sala, id do seu chat)
 *  Rode o comando a seguir e seu projeto já estara rodando:
 ~~~
 yarn start
